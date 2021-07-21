@@ -4,7 +4,7 @@ An Arduino based instrument to play music by waving hand in the air. This is a s
 
 ## Components Used
 
-1. Arduino Uno
+1. Arduino Mega 2560
 2. Ultrasonic Sensor HC-SR04 *5
 3. Piezo buzzer
 4. LiPo battery
